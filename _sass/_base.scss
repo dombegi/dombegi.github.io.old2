@@ -17,8 +17,10 @@ li,
 span,
 strong {
   color: var(--global-text-color);
-  font-family: "Noto Sans JP", sans-serif;
   }
+
+body {
+  font-family: "Noto Sans JP", sans-serif;
 }
 
 hr {
