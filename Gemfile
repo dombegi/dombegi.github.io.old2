@@ -1,14 +1,5 @@
 source 'https://rubygems.org'
 
-repository: dombegi/dombegi.github.io
-
-gems:
-- jekyll-github-metadata
-- jekyll-mentions
-- jekyll-redirect-from
-- jekyll-sitemap
-- jemoji
-
 group :jekyll_plugins do
     gem 'classifier-reborn'
     gem 'jekyll'
@@ -34,3 +25,4 @@ group :other_plugins do
     gem 'feedjira'
     gem 'httparty'
 end
+
